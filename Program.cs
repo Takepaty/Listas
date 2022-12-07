@@ -12,6 +12,23 @@
       listaString.Add("BA");
       listaString.Add("SC");
 
+      //Adicionando e removendo itens da lista
+
+      Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}.");
+      Console.WriteLine();
+
+      listaString.Add("AC");
+
+      Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}.");
+      Console.WriteLine();
+
+      listaString.Remove("RJ");
+
+      Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}.");
+      Console.WriteLine();
+
+      //Percorrendo a Lista
+
       Console.WriteLine("Percorrendo Lista com FOR!");
       Console.WriteLine();
 
