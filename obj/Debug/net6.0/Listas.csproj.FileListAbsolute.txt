@@ -1,0 +1,15 @@
+C:\dev\Listas\bin\Debug\net6.0\Listas.exe
+C:\dev\Listas\bin\Debug\net6.0\Listas.deps.json
+C:\dev\Listas\bin\Debug\net6.0\Listas.runtimeconfig.json
+C:\dev\Listas\bin\Debug\net6.0\Listas.dll
+C:\dev\Listas\bin\Debug\net6.0\Listas.pdb
+C:\dev\Listas\obj\Debug\net6.0\Listas.csproj.AssemblyReference.cache
+C:\dev\Listas\obj\Debug\net6.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Listas\obj\Debug\net6.0\Listas.AssemblyInfoInputs.cache
+C:\dev\Listas\obj\Debug\net6.0\Listas.AssemblyInfo.cs
+C:\dev\Listas\obj\Debug\net6.0\Listas.csproj.CoreCompileInputs.cache
+C:\dev\Listas\obj\Debug\net6.0\Listas.dll
+C:\dev\Listas\obj\Debug\net6.0\refint\Listas.dll
+C:\dev\Listas\obj\Debug\net6.0\Listas.pdb
+C:\dev\Listas\obj\Debug\net6.0\Listas.genruntimeconfig.cache
+C:\dev\Listas\obj\Debug\net6.0\ref\Listas.dll
